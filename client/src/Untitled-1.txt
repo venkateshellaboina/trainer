@@ -1,0 +1,7 @@
+ <pre>
+ 	            Item name   :	<input type="text" name="name"/> <br> </br>
+ 	            Description :	<input type="text" name="description"/> <br>  </br>
+ 	            price       :	<input type="number" name="price"/> <br>  </br>
+ 	            quantity    :	<input type="number" name="quantity"/> <br>  </br>
+ 	            <input type="submit" name="Add" value="Add to cart"/>
+            </pre>
